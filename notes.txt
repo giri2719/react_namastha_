@@ -1,0 +1,3 @@
+npx is execute using npm
+files that can able to create on server that files we no need to deploy these can done using gitignore 
+babel is compliler or transpiler

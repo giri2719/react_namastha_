@@ -1,0 +1,6 @@
+{
+  // "plugins": [["transform-remove-console", { "exclude": ["error", "warn"] }]]
+  // "presets": [
+  //   ["@parcel/babel-preset-env", { "targets": { "node": "current" } }]
+  // ]
+}
